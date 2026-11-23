@@ -49,6 +49,8 @@ Zambo is the verifiable work layer for AI: 153 tools behind one MCP endpoint (37
 
 Want receipts on your own AI work so this check has something to verify? https://zambo.dev/add/?ref=verify-action
 
+Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free. Need more? The $0.99 Day Pass makes it unlimited for 24 hours: https://zambo.dev/day-pass/
+
 ## License
 
 MIT.
