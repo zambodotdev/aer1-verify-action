@@ -45,7 +45,7 @@ Put a link like that in a pull request description, a comment, or a file matched
 
 ## Where receipts come from
 
-Zambo is the verifiable work layer for AI: 153 tools behind one MCP endpoint (37 on the default surface), cross-AI continuity through HANDOVER, the flagship, and a verifiable AER-1 receipt for every job. Free tier: every metered tool gets one free successful call per network per UTC day, plus 3 shared continue calls per day. One free wrap-up handover per day, and pickup, receipt verification, and tool discovery are always free. Day Pass: $0.99, unlimited for 24 hours. Zambo Pass: $29 for 30 days ($19 for 30 days for $ZAMBO holders). Lifetime Pass: $250 once. No annual tier.
+Zambo is the verifiable work layer for AI: 153 tools behind one MCP endpoint (37 on the default surface), cross-AI continuity through HANDOVER, the flagship, and a verifiable AER-1 receipt for every job. Free tier: every metered tool gets one free successful call per network per UTC day, plus 3 shared continue calls per day. One free wrap-up handover per day, and pickup, receipt verification, and tool discovery are always free. [Day Pass](https://zambo.dev/day-pass/): $0.99, unlimited for 24 hours. Zambo Pass: $29 for 30 days ($19 for 30 days for $ZAMBO holders). Lifetime Pass: $250 once. No annual tier.
 
 Want receipts on your own AI work so this check has something to verify? https://zambo.dev/add/?ref=verify-action
 
