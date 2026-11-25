@@ -1,6 +1,6 @@
 # Verify Zambo receipts (GitHub Action)
 
-[![verifiable receipts](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzambo.dev%2Fapi%2Fstats&query=%24.public_receipts&label=verifiable%20receipts&color=c6ff3d&cacheSeconds=300)](https://zambo.dev/numbers/)
+[![verifiable receipts](https://zambodotdev.github.io/badge-receipts.svg)](https://zambo.dev/numbers/)
 
 A GitHub Action that checks every Zambo receipt link in a pull request, and every receipt file you point it at, and fails the build if any does not verify. If an agent or a teammate claims work is done and links a receipt as proof, this action makes CI check the proof instead of trusting the claim.
 
